@@ -1,0 +1,7 @@
+﻿namespace insulator
+{
+    class Telephone
+    {
+
+    }
+}
