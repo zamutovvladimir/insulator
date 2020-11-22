@@ -11,6 +11,7 @@ namespace insulator
             NumberOfBuildingOrApartment number = new NumberOfBuildingOrApartment(3, 'a');
             Console.WriteLine("{0} {1}", number.Number, number.Letter);
             Console.WriteLine("{0}", new NumberOfBuildingOrApartment(3, 'a').Letter);
+            Console.WriteLine("pull request");
         }
     }
 }
