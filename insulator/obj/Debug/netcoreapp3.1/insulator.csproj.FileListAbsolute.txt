@@ -1,0 +1,13 @@
+D:\git\insulator\insulator\bin\Debug\netcoreapp3.1\insulator.exe
+D:\git\insulator\insulator\bin\Debug\netcoreapp3.1\insulator.deps.json
+D:\git\insulator\insulator\bin\Debug\netcoreapp3.1\insulator.runtimeconfig.json
+D:\git\insulator\insulator\bin\Debug\netcoreapp3.1\insulator.runtimeconfig.dev.json
+D:\git\insulator\insulator\bin\Debug\netcoreapp3.1\insulator.dll
+D:\git\insulator\insulator\bin\Debug\netcoreapp3.1\insulator.pdb
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.csprojAssemblyReference.cache
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.AssemblyInfoInputs.cache
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.AssemblyInfo.cs
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.csproj.CoreCompileInputs.cache
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.dll
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.pdb
+D:\git\insulator\insulator\obj\Debug\netcoreapp3.1\insulator.genruntimeconfig.cache
